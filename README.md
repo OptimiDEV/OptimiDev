@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm OptimiDev (Alex) — he/him 🏳️‍⚧️
+# 👋 Hi there, I'm OptimiDev (Alex) — he/him 
 
 I'm an 18-year-old developer with a passion for building innovative solutions and crafting seamless user experiences. Whether it's modern web interfaces, smart backend systems, or creative projects in the open-source world — I love turning ideas into reality through code.
 
