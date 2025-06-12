@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm OptimiDev (Alex) — he/him
+# 👋 Hi there, I'm OptimiDev (Alex) — he/him 🏳️‍⚧️
 
 I'm an 18-year-old developer with a passion for building innovative solutions and crafting seamless user experiences. Whether it's modern web interfaces, smart backend systems, or creative projects in the open-source world — I love turning ideas into reality through code.
 
@@ -21,8 +21,8 @@ I'm an 18-year-old developer with a passion for building innovative solutions an
 
 ## 📊 GitHub Stats
 
-![OptimiDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OptimiDev&show_icons=true&theme=radical&border_radius=12)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OptimiDev&layout=compact&theme=radical&border_radius=12)
+![OptimiDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OptimiDev&show_icons=true&theme=github_dark&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OptimiDev&layout=compact&theme=github_dark&border_radius=12)
 
 ---
 
