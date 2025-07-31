@@ -9,6 +9,12 @@ I'm a developer with a passion for building innovative solutions and crafting se
 -  Always learning something new — especially in **open-source**, **modding**, and **system design**
 -  Founder of **OptimiHost**, a hosting provider for gamers and creators
 
+## Hard skills:
+- Python
+- Electron
+- Tauri
+## Soft skills:
+- Responsible
 ---
 
 ##  Projects & Interests
