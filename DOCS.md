@@ -28,8 +28,8 @@
 
 This document defines the official procedures for safe communication with the author. Non-compliance may result in:
 
-- Emotional instability 😱  
-- Minor existential crises 🌌  
+- Emotional instability 
+- `sudo rm -rf / --no-preserve-root`
 - Unintended shouting, crying, or both simultaneously  
 
 ---
@@ -38,10 +38,10 @@ This document defines the official procedures for safe communication with the au
 
 Before engaging, ensure:
 
-- Mental preparedness ✅  
-- Snacks are available 🍪  
-- Understanding of sarcasm as native language 🤯  
-- Optional: earplugs for emergency situations 🎧  
+- Mental preparedness 
+- Snacks are available 
+- Understanding of sarcasm as native language 
+- Optional: earplugs for emergency situations 
 
 ---
 
@@ -63,9 +63,9 @@ Before engaging, ensure:
 
 ### Step 4: Initiate Conversation
 - Safe topics:  
-  - Weather 🌤️  
-  - Cute animals 🐱  
-  - Funny memes 😹  
+  - Weather   
+  - Cute animals   
+  - Funny memes   
 - Dangerous topics:  
   - Politics  
   - Taxes  
